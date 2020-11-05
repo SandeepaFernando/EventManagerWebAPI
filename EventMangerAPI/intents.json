@@ -1,0 +1,80 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old", "what is your age", "how old are you", "age?"],
+         "responses": ["I am 25 years old!"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?", "who made you"],
+         "responses": ["You can call me SFCode.", "I'm SFCode!", "I'm SFCode aka Sandeepa Fernando."],
+         "context_set": ""
+        },
+        {"tag": "user",
+         "patterns": ["Who can use this app", "who are the users", "what type of users are in this app"],
+         "responses": ["Both Vendors and Organizers can use this App", "Both Vendors and Organizers"],
+         "context_set": ""
+        },
+        {"tag": "vendor",
+         "patterns": ["how can i loging as a vendor", "how can i be a vendor", "where is the loging of vendor"],
+         "responses": ["Fisrt you have to Register as a Vendor, And Then Loging to the App"],
+         "context_set": ""
+        },
+		{"tag": "organizer",
+         "patterns": ["how can i loging as a organizer", "how can i be a organizer", "where is the loging of organizer"],
+         "responses": ["Fisrt you have to Register as a Organizer, And Then Loging to the App"],
+         "context_set": ""
+        },
+		{"tag": "post_add",
+         "patterns": ["how can post a add", "how to post add", "where i can post a add"],
+         "responses": ["To post a Add you must be a Organizer,In your home there is a pink post iocon tap on it and fill the deatalis"],
+         "context_set": ""
+        },
+		{"tag": "edite_profile",
+         "patterns": ["how can i edit my profile", "how to edit my profile", "where can i edit my profile"],
+         "responses": ["Tap on Navigation Drawer, and Second option."],
+         "context_set": ""
+        },
+		{"tag": "emergence_filter",
+         "patterns": ["how to get to emergence filter", "where is emergence filter", "what is emergence filter"],
+         "responses": ["Emergence flter is in Rigth side coner, it can find out Vendors that you want."],
+         "context_set": ""
+        },
+		{"tag": "contact_vendor_filter",
+         "patterns": ["after filter, how to cantact vendor", "how to cantact one of vendor in emergence filter"],
+         "responses": ["Sellect one of Vendor, and then it promt messaging Apps, select your Email client App"],
+         "context_set": ""
+        },
+		{"tag": "logout",
+         "patterns": ["how to logout", "where is logout button"],
+         "responses": ["Sad to see you go :("],
+         "context_set": ""
+        },
+		{"tag": "skills",
+         "patterns": ["how can i add more skills", "where is more skills"],
+         "responses": ["You have to Update your profile."],
+         "context_set": ""
+        },
+		{"tag": "both",
+         "patterns": ["can i user both vendor and organizer in same app", "how to user both vendor and organizerin same app"],
+         "responses": ["You cant use both users in same app!"],
+         "context_set": ""
+        },
+		{"tag": "profile_picture",
+         "patterns": ["can i and a profile picture", "how to add profile picture", "profile picture", "where is profile picture"],
+         "responses": ["You can not add a profile picture yet, we are working on it!"],
+         "context_set": ""
+        }
+
+
+   ]
+}

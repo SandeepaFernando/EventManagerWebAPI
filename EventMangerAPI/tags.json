@@ -1,0 +1,11 @@
+{"allTags": [
+        {"category": "category1",
+         "description": ["Dear Developers! Here’s another chance for you to learn ML with GDG!", "We are hosting an online session for all of you with an exciting topic, ML made easy with Big Query"],
+         "tags": ["ML" , "AI"]
+        },
+        {"category": "category2",
+         "description": ["Understanding how a startup came to market and how it went from idea to unicorn is critical. It provides a lot of lessons to your entrepreneurs on the path taken and the ups and downs that made a company who they are."],
+         "tags": ["Career & Business"]
+        }
+   ]
+}
