@@ -117,6 +117,10 @@ class ScrapedEventTags(models.Model):
     updated = models.DateTimeField(auto_now=True)
 
 
+class UserQuestions(models.Model):
+    text = models.CharField('text', max_length=120)
+
+
 @receiver(post_save, sender=EventTags)
 def postSaveEvent(sender, instance=None, created=False, **kwargs):
     event = Event.objects.get(pk=instance.eventId.id)
@@ -182,10 +186,3 @@ def sendMessageToOrganizerDevices(bidderId, title, msg, data=None):
 
     if result:
         massenger.sendPush(title, msg, result, data)
-
-
-
-
-
-
-

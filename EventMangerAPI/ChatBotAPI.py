@@ -9,6 +9,8 @@ from tensorflow_core.python.keras.layers import Dense
 from tensorflow_core.python.keras.models import Sequential
 from tensorflow_core.python.keras.models import model_from_yaml
 
+from EventMangerAPI.models import UserQuestions
+
 nltk.download('punkt')
 
 stemmer = LancasterStemmer()
@@ -125,6 +127,8 @@ def chat(inp):
     tag = labels[results_index]
 
     if numpy.all((numpyCurrentText == 0)):
+        uq = UserQuestions(text=inp)
+        uq.save()
         return "I didn't get that, try again!"
 
     if results[0][results_index] > 0.7:
@@ -134,26 +138,6 @@ def chat(inp):
 
         return random.choice(responses)
     else:
-        return "I didn't get that, try again!"
-
-# def chat():
-#     print("Start talking with the bot (type quit to stop)!")
-#     while True:
-#         inp = input("You: ")
-#         if inp.lower() == "quit":
-#             break
-#
-#         currentText = bag_of_words(inp, words)
-#         currentTextArray = [currentText]
-#         numpyCurrentText = numpy.array(currentTextArray)
-#         results = myChatModel.predict(numpyCurrentText[0:1])
-#         results_index = numpy.argmax(results)
-#         tag = labels[results_index]
-#
-#         for tg in data["intents"]:
-#             if tg['tag'] == tag:
-#                 responses = tg['responses']
-#
-#         print(random.choice(responses))
-#     else:
-#         print("I didn't get that, try again!")
+        uq = UserQuestions(text=inp)
+        uq.save()
+        return "I didn't get that, try again!X"
