@@ -17,7 +17,8 @@ import EventMangerAPI.ReviewAnalizer as ra
 import EventMangerAPI.TagsPredictor as tp
 from EventMangerAPI.models import Skill, User, Event, Device, ScrapedEvent, EventBid, EventComment
 from EventMangerAPI.serializers import UserSerializer, SkillSerializer, VendorSerializer, EventSerializer, \
-    SaveEventSerializer, SaveVendorSerializer, EventBidSerializer, EventCommentSerializer, SaveEventCommentSerializer
+    SaveEventSerializer, SaveVendorSerializer, EventBidSerializer, EventCommentSerializer, SaveEventCommentSerializer, \
+    BotQuestionSerializer
 import EventMangerAPI.FirebasePushManager as massenger
 import EventMangerAPI.ChatBotAPI as bot
 from EventMangerAPI import Scraper as sp
@@ -116,6 +117,13 @@ def getVendors(request):
                                "eventmanagernew.eventmangerapi_user.id), 0)as rating FROM "
                                "eventmanagernew.eventmangerapi_user) table1 WHERE table1.userType = 3")
     serializers = VendorSerializer(vendors, many=True)
+    return Response(serializers.data)
+
+
+@api_view(['GET'])
+def getAllQuestions(request):
+    question = User.objects.raw("SELECT * FROM `eventmangerapi_userquestions`")
+    serializers = BotQuestionSerializer(question, many=True)
     return Response(serializers.data)
 
 

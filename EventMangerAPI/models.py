@@ -118,6 +118,7 @@ class ScrapedEventTags(models.Model):
 
 
 class UserQuestions(models.Model):
+    id = models.CharField('id', max_length=120, primary_key=True)
     text = models.CharField('text', max_length=120)
 
 

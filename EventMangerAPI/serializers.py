@@ -1,7 +1,7 @@
 from django.db import connection
 from rest_framework import serializers
 
-from EventMangerAPI.models import User, Skill, VendorSkill, Event, EventTags, EventComment, EventBid, ScrapedEvent, \
+from EventMangerAPI.models import User, Skill, VendorSkill, Event, EventTags, EventComment,UserQuestions ,EventBid, ScrapedEvent, \
     ScrapedEventTags
 
 
@@ -87,6 +87,13 @@ class SkillSerializer(serializers.ModelSerializer):
     class Meta:
         model = Skill
         fields = ['id', 'tagName', ]
+        depth = 1
+
+
+class BotQuestionSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = UserQuestions
+        fields = ['id', 'text', ]
         depth = 1
 
 

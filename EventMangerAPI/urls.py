@@ -29,4 +29,5 @@ urlpatterns = [
     path('eventComment/<int:pk>/', views.EventCommentAPIView.as_view()),
     path('getVendorsByBudgetAndTags', views.get_vendor_count_by_budget, name='getVendorsByBudgetAndTags'),
     path('', views.home, name='home'),
+    path('getAllQuestions', views.getAllQuestions, name='getAllQuestions'),
 ]
