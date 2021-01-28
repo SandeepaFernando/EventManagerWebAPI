@@ -25,33 +25,33 @@
          "context_set": ""
         },
         {"tag": "vendor",
-         "patterns": ["how can i loging as a vendor", "how can i be a vendor", "where is the loging of vendor"],
-         "responses": ["Fisrt you have to Register as a Vendor, And Then Loging to the App"],
+         "patterns": ["how can i login as a vendor", "how can i be a vendor", "where is the login of vendor"],
+         "responses": ["First you have to Register as a Vendor And Then login to the App"],
          "context_set": ""
         },
 		{"tag": "organizer",
-         "patterns": ["how can i loging as a organizer", "how can i be a organizer", "where is the loging of organizer"],
-         "responses": ["Fisrt you have to Register as a Organizer, And Then Loging to the App"],
+         "patterns": ["how can i login as a organizer", "how can i be a organizer", "where is the login of organizer"],
+         "responses": ["First you have to Register as a Organizer And Then login to the App"],
          "context_set": ""
         },
 		{"tag": "post_add",
-         "patterns": ["how can post a add", "how to post add", "where i can post a add"],
-         "responses": ["To post a Add you must be a Organizer,In your home there is a pink post iocon tap on it and fill the deatalis"],
+         "patterns": ["how can post a event", "how to post a event", "where i can post a event"],
+         "responses": ["To post a Add you must be a Organizer In your home there is a pink post icon tap on it and fill the details"],
          "context_set": ""
         },
-		{"tag": "edite_profile",
+		{"tag": "edit_profile",
          "patterns": ["how can i edit my profile", "how to edit my profile", "where can i edit my profile"],
-         "responses": ["Tap on Navigation Drawer, and Second option."],
+         "responses": ["Tap on Navigation Drawer and Second option."],
          "context_set": ""
         },
 		{"tag": "emergence_filter",
          "patterns": ["how to get to emergence filter", "where is emergence filter", "what is emergence filter"],
-         "responses": ["Emergence flter is in Rigth side coner, it can find out Vendors that you want."],
+         "responses": ["Emergence filter is in right side corner it can find out Vendors that you want."],
          "context_set": ""
         },
 		{"tag": "contact_vendor_filter",
-         "patterns": ["after filter, how to cantact vendor", "how to cantact one of vendor in emergence filter"],
-         "responses": ["Sellect one of Vendor, and then it promt messaging Apps, select your Email client App"],
+         "patterns": ["after filter, how to contact vendor", "how to contact one of vendor in emergence filter"],
+         "responses": ["Select one of Vendor, and then it prompt messaging Apps, select your Email client App"],
          "context_set": ""
         },
 		{"tag": "logout",
@@ -65,7 +65,7 @@
          "context_set": ""
         },
 		{"tag": "both",
-         "patterns": ["can i user both vendor and organizer in same app", "how to user both vendor and organizerin same app"],
+         "patterns": ["can i user both vendor and organizer in same app", "how to user both vendor and organizer same app"],
          "responses": ["You cant use both users in same app!"],
          "context_set": ""
         },
@@ -73,8 +73,37 @@
          "patterns": ["can i and a profile picture", "how to add profile picture", "profile picture", "where is profile picture"],
          "responses": ["You can not add a profile picture yet, we are working on it!"],
          "context_set": ""
+        },
+		{"tag": "delete_event",
+         "patterns": ["Can I delete event my event","Can I delete event my advertisement","How can I delete the existing advertisement", "How can I delete the already created event", "How to delete an event I have created", "How to Delete an event","How to Delete an advertisement"],
+         "responses": ["Deleting Events - Please send us an email to eventzz2020@gmail.com, We will get back to you."],
+         "context_set": ""
+        },
+        {"tag": "absence_of_Vendor",
+         "patterns": ["What will happen if the vendor won't attend to the event","If the vendor didn't show up for the event", "If the vendor absence for the event"],
+         "responses": ["Either choose a vendor from emergency vendor tracking option or contact us eventzz2020@gmail.com."],
+         "context_set": ""
+        },
+        {"tag": "Payment",
+         "patterns": ["Do I have to pay","Are there any payments to be done", "How much you cost for the services","Is this a free service"],
+         "responses": ["This is totally free for One Year. There will be an additional charges for the advanced features."],
+         "context_set": ""
+        },
+        {"tag": "Bid",
+         "patterns": ["How do i bid for event","how to bid", "where is bid button"],
+         "responses": ["Select a event and click on Bid Now button."],
+         "context_set": ""
+        },
+        {"tag": "postpone",
+         "patterns": ["How do i postpone the event","can i postpone the event", "how to postpone events"],
+         "responses": ["Postponing Events - Please send us an email to eventzz2020@gmail.com, We will get back to you."],
+         "context_set": ""
+        },
+        {"tag": "change_vendor",
+         "patterns": ["How do i change the vendor","can i change the vendor", "how to change vendor after the accept the bid"],
+         "responses": ["You can not change Vendors after accepting the bid. Please contact the existing vendor"],
+         "context_set": ""
         }
-
 
    ]
 }

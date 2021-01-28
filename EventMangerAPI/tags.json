@@ -1,11 +1,111 @@
 {"allTags": [
         {"category": "category1",
-         "description": ["Dear Developers! Here’s another chance for you to learn ML with GDG!", "We are hosting an online session for all of you with an exciting topic, ML made easy with Big Query"],
-         "tags": ["ML" , "AI"]
+         "description": ["Minnisota Wedding Show 2021 - If you are in looking for a onestop event to plan your entire wedding look no further than the Minnisota Wedding Show 2021. You will be able to meet some of the best in class vendors in the entire state where you can get tips and tricks for your special day. Hire the best proffessionals to help your wedding to shine. Exclusive offers on various wedding nessassities and bridal needs. Sign up using the link below to book you ticket.www.weddingcentral.com/minnisotaweddingshow/signup"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
         },
         {"category": "category2",
-         "description": ["Understanding how a startup came to market and how it went from idea to unicorn is critical. It provides a lot of lessons to your entrepreneurs on the path taken and the ups and downs that made a company who they are."],
-         "tags": ["Career & Business"]
+         "description": ["McArther Wedding show 2021 - Host by wedding experts and top wedding planning organization, McArthur Weddings is inviting all of the newly engaged or not so newly engaged down to the Maddison Square Center to make your wedding dreams a reality and get some amazing deals from the vendors we have gathered together. We are having a couple of competitions for some exciting prizes to help make your wedding day just a bit more special. We are giving you insider tips on bridal fashion, flowers, cakes and everything in between."],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
+        },
+        {"category": "category3",
+         "description": ["T21st Surprise Party - Join us as we get together to surprise the birthday girl for her 21st birthday. We are moving forward with a hawaian theme to celebrate Janines love for the tropics. It will be held and the Club Shore which is adjacent to the beach. We are looking for a live band to perform and play the greatest hits."],
+         "tags": ["Photographer","Food Supplier", "DJ / Music","Decorators"]
+        },
+        {"category": "category4",
+         "description": ["Birthday at the Water Park - Join us as we celebrate the 7th birthday of Timothy. The Birthday will be held inside the water park and we have got special permission to bring in our very own DJ and caterers to make this event our own. We are also looking for a professional photographer to cover the event. The prices are negogiable so please contact 0762519441 for more details"],
+         "tags": ["Photographer","Food Supplier", "DJ / Music","Decorators"]
+        },
+	    {"category": "category5",
+         "description": ["Beach Party Spectacle - We are taking over the beach for an exciting night of dj and partying. Please get ready to bring your best moves as we are on from sun set to sun rise. On the 28th of February @ the downtown venice beach Feat: Magic Box and DJ Kesh. Food and drinks available. Ticket first come first serve only"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music"]
+        },
+        {"category": "category6",
+         "description": ["Bring your significant other down for a night of great music from a live band and dj as well as amazing food and and drinks including various signature dishes. Held on the eve of valentines day. tickets will be available at the venue.In need of professional Band to play english and sinhala music. Prices are negotiable. On Sat 13th February 2021. 12:00 pm – 10:00 pm. at Horton Place Colombo 05"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music"]
+        },
+	{"category": "category7",
+         "description": ["Kerry Wedding Show 2021 - Whether recently engaged and if you are congratulations! or engaged for a little longer, we are sure there will be something for you at The Kerry Wedding Show. Here is a flavour of what the Show will be all about: Access to some of the South Wests best wedding professionals and suppliers all under one roof for one day only - a chance to ask wedding suppliers directly all your burning questions.Exclusive offers for the Show, Some amazing competitions and giveaways, Bridal Fashion Show - bringing you all the latest trends in bridal fashion. Lots of ideas and inspiration for your wedding and other fun stuff to keep you entertained. You can experience all this from the comfort of your own home - all you need is a mobile phone or computer with an internet connection. So, sign-up early to avoid disappointment."],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
+        },
+        {"category": "category8",
+         "description": ["Oklahoma Wedding show 2021 - Hosted on a state-of-the-art site, the virtual Oklahoma Wedding Show allows vendors and attendees to connect risk-free from the safety and convenience of their own homes and businesses. This event is FREE OF CHARGE for all attendees.With the new platform, vendors are able to exhibit their products and facilities directly to attendees; offer live tutorials; and chat directly with potential clients, creating relationships from afar.In today’s uncertain climate, the virtual Oklahoma Wedding Show offers a safe, reliable opportunity to plan and look towards the future.Oklahoma Magazine presents the region’s premier wedding event. The Oklahoma Wedding Show offers attendees access to the latest in bridal fashion, catering, flowers, photography, cakes and help with everything else needed for a couple’s big day."],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
+        },
+        {"category": "category9",
+         "description": ["Eve on tour weddings - eve is here to help you locate the perfect place-with the perfect space - for your wedding. Find out more about eve and our venues here. Over two evenings, we've curated a showcase of unique and truly inspiring venues. You'll discover what makes these spaces special and the stories behind them. We've also teamed up with some of the most celebrated industry experts to lend their advice on locating the perfect venue, wedding planning, photography, floristry and of course, finding the dress. Why not have a glass of bubbly ready while we take you on a tour of the stunning venues eve has to offer? We hope you are able to join us on one or both evenings. Tickets are completely free and by attending you will also receive special booking offers in our digital goody bag."],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
+        },
+        {"category": "category10",
+         "description": ["Wedding Collective New Mexico Your announcement includes a complimentary photo session with one of our photographers (or you can provide your own high quality photo from your photographer), your names, wedding date, and location. Your announcement will be included in one issue of Wedding Collective New Mexico the magazine that will hit the streets in March 2021 and will be available throughout Albuquerque and Santa Fe for 6 months (10,000 copies in distribution). Simply register online and send a follow up email to jenna@weddingcollectivenm.com with your information to prepare your lovely announcement proof for you to review and approve."],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
+        },
+        {"category": "category11",
+         "description": ["The Happily Ever After Virtual Wedding Show The North Devon Wedding Network - Annual Happily Ever After Wedding Showcase is going ONLINE! Come join us over the weekend of the 27th & 28th March 2021 for a NEW and EXCITING online wedding fayre with everything you need to plan your perfect day.What Will You See? Over 40 amazing local suppliers and venues showcasing their businesses in a combination of live streams, online chats, video playbacks, product showcases, venue tours, demonstrations and even live catwalks.The Network Team will be here to answer all you wedding enquires and point you in the right direction to find your perfect supplier.There will be competitions, offers & giveaways and we will be supporting our local charities along the way! We can't wait to bring this event to you and be part of your very own happily ever after!"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
+        },
+        {"category": "category12",
+         "description": ["Asian Weddings Virtual Pop Up Event - The Pop Up Bazaar is no ordinary directory! It is a movement which is reinventing the way independent businesses sell and how customers discover new brands. We bring together a curated selection of makers, retailers and boutiques all under one virtual roof to create an innovative shopping experience! If it's been a little difficult shopping for your BIG day or upcoming event in lockdown then look no further. The Pop Up Bazaar is going ALL out to bring you an Asian Wedding & Celebrations Edition of our very successful Virtual Pop Up Bazaar Events. Whether you are shopping for your big day or will be a guest at a function which is finally going ahead later in the year when lockdown restrictions are lifted - this Spring Virtual Pop Up is for you! We know its been a bit tricky to get any kind of shopping done - especially for occasions! So if you need to buy fashion, wedding guest outfits, gifts, favours, jewellery, trousseau, gift wrapping, well being and beauty, or even if you need a last minute service then this EVENT is not to be missed!"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
+        },
+        {"category": "category13",
+         "description": ["Newcastle's Annual Wedding Expo 2021 - Date And Time - Sun, 27 June 2021. 10:00 am – 3:00 pm. Location @ Newcastle Exhibition & Convention Centre - Our Newcastle Annual Wedding Expo is a flagship wedding event in the Newcastle and Hunter region. Located at the well-known NEX (Newcastle Entertainment and Convention Centre) just off the Newcastle CBD. With over 100 vendors, from the greater Newcastle and Hunter region. We love the local, creative and trendy vibe that our Newcastle Bridal Expo brings. Full of colour, inspiration, fun and great live entertainment – our Newcastle Annual Wedding Expo is an event not to be missed.The hand-picked creative vendors include an array of florist, bridal gowns, photography, invitations, wedding cars, hens parties, makeup, fitness, men’s suits, shoes, videography, reception venues, honeymoon, bridal favours, candy buffets, wedding cakes, bridal jewellery, wedding planners, marriage celebrants and wedding stylist."],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators","Car Rental"]
+        },
+	{"category": "category14",
+         "description": ["Burlseque Birthday Bash - Come celebrate our birthdays with a Burlseque theme party at Club 103 in Belmont on Friday 15th of Jan from 8.00 pm onwards. We will have some gorgeous singers, stand up comedian, a body painter for entertainment.. As this is at a club. The cost is $30 per person. So please no presents at all. All food supplied, and canefire rum slushies supplied as well.Grab your tickets soon as only so many tickets available."],
+         "tags": ["Photographer","Food Supplier", "DJ / Music","Decorators"]
+        },
+        {"category": "category15",
+         "description": ["Ollie's First Birthday Cake Smash - Join us for Ollies First Birthday, for a sunset Cake Smash Portrait Session with her 5 year old sister Scarlett, complete with peach and pink styled setup, cute dresses and cake West side of Lo Quay Café and Fern Park Playground in Wilson. The session should be led by a professional photographer.Limited to only 10 photographers and first offer of tickets given to those that attended any of the maternity shoots to be able to continue portfolio building."],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music"]
+        },
+        {"category": "category16",
+         "description": ["Aditya's Big 3-O - Please join me in celebrating Aditya's 30th birthday with a sit down dinner and drinks.Dinner is on us and dietary requirements will be catered for as per your specification. Looking for a good caterer around this area. Please contact 0778766456. Prices are negotiable"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music"]
+        },
+        {"category": "category17",
+         "description": ["Walter de la Mare's Birthday Party. Date And Time - Sat, 24 April 2021. 19:30 – 21:30. Location Penge Library - De la Mare lived in the Penge area for about 25 years and is one of Britain's best loved poets. Special guest: Giles de la Mare; Iona Duncan, harpist; Mikey Kirkpatrick singing de la Mare poems; local poets reading their own work; Martin Spence on de la Mare's ghost story All Hallows; Erica Steenkamp performing de la Mare; Dr William Wootten on de la Mare's poetry. Results of the de la Mare Poetry Competition and much more. A ticket includes wine, nibbles and a slice of birthday cake.Sponsored by Designer Drapes, Penge Poets and the Penge Heritage Trail. A event to raise awareness of Walter de la Mare's legacy and to fundraise for future cutural projects in Penge. In need to a young personality to host this birthday party. Contact John Mayer (0080 - 123-123-123)."],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music"]
+        },
+        {"category": "category18",
+         "description": ["Natasha's Sweet 16 - Natasha is turning 16 on this coming Sunday 10th January 2021. Would like to invite all of you to celebrate this special day with her at Sanhida Lesuire Centre from 5.30 pm onwards.Proffesional photographers needed to cover this whole event (Prices from 20k - 30k)Any talented cake designers out there to customize a unicorn cake for around 3500 LKR.Please Contact Natasha's Mother Sheila - 0778955456]"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music"]
+        },
+        {"category": "category19",
+         "description": ["Diveens 21st - Diveen is turning 21 20th January 2021. The party is starting from 8.00 pm onwars at Diveen place on that day. Diveen is a huge fan or Iron man so we are thinking of hosting an Avengers themed party for him. Need ideas to decorate the garden with this theme.Please call Dilan - 0778944455"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music"]
+        },
+        {"category": "category20",
+         "description": ["25th Birthday party!!! - Kissingpoint Cottage is celebrating 25 years of supporting the defence community and we are having a party!Join us on Saturday 27th February from 10am for a fun filled day! There will be an animal farm, face painter, balloon artist, a sausage sizzle, the Navy band and lots more!"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music"]
+        },
+	    {"category": "category21",
+         "description": ["How To Improve Your Leadership Skills - on 12th January from 2.00pm onwards - People respond to good leadership. In all aspects of our lives, not just business.A parent is a leader in their home; a kid may be a leader of a team sport. A group relies on the person in charge to lead them to success and to be highly ethical and honest. In our society, we have leaders and followers. Are people born to one or the other? No! Can anyone gain and improve leadership skills? Absolutely! We'll help you understand yourself, discover you why and how you how to recognize opportunities that will make a difference in your becoming a leader, or improving your leadership position."],
+         "tags": ["Photographer","Food Supplier"]
+        },
+        {"category": "category23",
+         "description": ["Steps to Public Speaking Success. Public speaking skills will make you:Stand out and make you more visible in your organisation.Deliver a message with greater clarity, confidence and impact.Connect with people through what you say and how you say it.Feel more confident in yourself.But it's not easy knowing where to begin, so you put off taking action today to realise your potential as a confident public speaker.Join me for this 30 min session where you SUPERCHARGE your public speaking skills.And take steps towards YOUR Public Speaking Success today.During this session David will show you his tried and tested 5 steps including;Applying techniques for coping with nerves.Recognising confident body language.Illustrate ways to engage your audience and build connection.Take steps towards your public speaking success and join me for this 30 minute session.Meet your trainer. https://davidalanmurray.com/coaching/"],
+         "tags": ["Photographer","Food Supplier"]
+        },
+        {"category": "category24",
+         "description": ["How To Create a Compelling & Profitable Personal Brand - When it comes to business and marketing, many initially think that branding is all about fancy logos and witty company or product names. However, this is the single most important part of your overall marketing strategy and how your business will be perceived in the market. Join us for an interactive online event. Where we’ll help you understand what a great USP looks like and walk you through the steps of building one for yourself and your business. We’ll also dive deep into the following topics:Things to avoid when creating your USP. How to position yourself in front of your audience. How to differentiate yourself and highlight your competitive edge. Online Meeting Room on 22nd of January from 3.00 pm onwards"],
+         "tags": ["Photographer","Food Supplier"]
+        },
+        {"category": "category25",
+         "description": ["MSc BIA/BDT Project and Alumni Networking Event 2020-21 - 14 JANUARY 2021 - As in previous years, we will be holding an MSc project networking event. However this academic year, it will ONLINE between 5.00pm and 7.30pm.This will be a great opportunity:For students to find out more about what some alumni have done in their projects, to hear about project opportunities in the real world, and to network with alumni and others working or interested in areas relevant to Data Science, Business Intelligence and Analytics, and Big Data Technologies.For alumni and others to learn more about our courses and our staff expertise and interest, and to present project opportunities for students to work on in the summer 2021.If you would like to present a potential data science project opportunity, please enter brief project details when you register . The approximate schedule for the event is below:17.00-17.30: Presentations by academic staff (of their interests). 17.30-18.45: industry/business opportunities (e.g. alumni, external organisations) and project experiences. 18.45-19.30: Q&A and Networking around virtual drinks and nibbles"],
+         "tags": ["Photographer","Food Supplier"]
+        },
+        {"category": "category26",
+         "description": ["ONLINE EVENT: Art of Communication Sydney (ACS) Toastmasters Meeting - Do you want to improve your communication and leadership skills?Do you want to feel more confident speaking in front of an audience? Would you like to command attention and interest in a wide variety of business and social situations?Would you benefit from being a more persuasive and effective speaker?If you answered yes to any of these questions, then the Art of Communication Sydney (ACS) Toastmasters Club is for you. Come and join other like-minded people to develop these important skills. Why not come along as a guest to our next meeting? Registration is free for guests."],
+         "tags": ["Photographer","Food Supplier"]
+        },
+	    {"category": "category27",
+         "description": ["We are taking over the whole Coast venue as well as the entire beach in front plus the car park on either side. Venice vibes for your dancing pleasure, as the sun sets over the Indian Ocean.On Sunday 24th January - Beach Party from 3 pm - 10 pm @ Open Air main stage. It is a 18+ event (Valid ID must be shown on entry). Feat: Motif DJ's, Cali Beach Club. Feat: House & Disco vibes and Cookie Loco DJs. Food and drinks. Tickets priced at $100 And available at the entrance"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators"]
+        },
+        {"category": "category28",
+         "description": ["Pitch Black 2021 - Pitch Music & Arts is proud to once again showcase an esteemed host of electronic artists in March. In a world with restrictions, where a multi day camping event is not possible we bring you you a temporary inner-city, open air solution for 2021, Pitch Black.An urban re-creation of the arena which has become synonymous with Pitch Music & Arts will play host to a selection of our very own Australian artists and a special guest.The multi-level scaffolding stage will be expanded to accommodate all patrons, and transformed into a rectangular steel colosseum to pay homage to its original brutalist form, also featuring a Funktion-One sound system in an iconic Melbourne parkland TBA.In need of professional DJs. Prices are negotiable. On Sat 6 March 2021. 12:00 pm – 10:00 pm at Police grounds Colombo 05"],
+         "tags": ["Photographer","Videographer","Food Supplier", "DJ / Music","Decorators"]
         }
-   ]
+    ]
 }

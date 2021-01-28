@@ -129,7 +129,7 @@ def chat(inp):
     if numpy.all((numpyCurrentText == 0)):
         uq = UserQuestions(text=inp)
         uq.save()
-        return "I didn't get that, try again!"
+        return "I didn't get that, try again"
 
     if results[0][results_index] > 0.7:
         for tg in data["intents"]:
@@ -140,4 +140,4 @@ def chat(inp):
     else:
         uq = UserQuestions(text=inp)
         uq.save()
-        return "I didn't get that, try again!X"
+        return "I didn't get that, try again!"
